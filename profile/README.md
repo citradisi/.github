@@ -11,6 +11,9 @@ Hi everyone! We are from C23-PS215. We consist of 6 people and this is my team m
 | M251DSX0590 | Alfian Rudiyanto          | Machine Learning    | Universitas Muhammadiyah Malang              | Linkedin |
 | M151DSX2566 | Alun Darma Nagara         | Machine Learning    | Universitas Brawijaya                        | Linkedin |
 
+## Theme
+Tourism, Cultural, and Hospitality
+
 <!--
 
 **Here are some ideas to get you started:**
