@@ -1,4 +1,15 @@
 ## Hi there 👋
+Team ID: C23-PS215
+Hi everyone! We are from C23-PS215. We consist of 6 people and this is my team members: 
+
+| Bangkit ID  | Name                      | Learning Path       |                University                    | Linkedin |
+| ----------- |:-------------------------:|:-------------------:|:--------------------------------------------:|:---------:|
+| A037DSY1424 | Airlangga Putri Hariyanto | Mobile development  | Institut Teknologi Perusahaan Listrik Negara | [Linkedin](https://www.google.com) |
+| A037DSX1048 | Samsul Alfin Khoir        | Mobile development  | Institut Teknologi Perusahaan Listrik Negara | Linkedin |
+| C251DSX0982 | Aria Maulana Eka Mahendra | Cloud Computing     | Universitas Muhammadiyah Malang              | Linkedin |
+| C251DSX0865 | Muhammad Jihan Gumeular   | Cloud Computing     | Universitas Muhammadiyah Malang              | Linkedin |
+| M251DSX0590 | Alfian Rudiyanto          | Machine Learning    | Universitas Muhammadiyah Malang              | Linkedin |
+| M151DSX2566 | Alun Darma Nagara         | Machine Learning    | Universitas Brawijaya                        | Linkedin |
 
 <!--
 
