@@ -4,7 +4,7 @@ Hi everyone! We are from C23-PS215. We consist of 6 people and this is my team m
 
 | Bangkit ID  | Name                      | Learning Path       |                University                    | Let's Connect |
 | ----------- |:------------------------- |:------------------- |:-------------------------------------------- |:--------- |
-| A037DSY1424 | Airlangga Putri Hariyanto | Mobile development  | Institut Teknologi Perusahaan Listrik Negara | <a href="https://www.linkedin.com/in/airlanggaputrii">Linkedin</a> |
+| A037DSY1424 | Airlangga Putri Hariyanto | Mobile development  | Institut Teknologi Perusahaan Listrik Negara | <a href="https://www.linkedin.com/in/airlangga-putrii-91a4b0264/">Linkedin</a> |
 | A037DSX1048 | Samsul Alfin Khoir        | Mobile development  | Institut Teknologi Perusahaan Listrik Negara | <a href="https://www.linkedin.com/in/samsulalfinkhoir/">Linkedin</a> |
 | C251DSX0982 | Aria Maulana Eka Mahendra | Cloud Computing     | Universitas Muhammadiyah Malang              | <a href="https://www.linkedin.com/in/ariamaulana/">Linkedin</a> |
 | C251DSX0865 | Muhammad Jihan Gumeular   | Cloud Computing     | Universitas Muhammadiyah Malang              | <a href="https://www.linkedin.com/in/muhammad-jihan-gumeular/">Linkedin</a> |
